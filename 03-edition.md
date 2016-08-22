@@ -47,7 +47,15 @@ research, there is no need to judge the relevance or novelty of the
 research. The review should really concentrate on how easy it would be for
 another researcher to run the proposed implementation. This should be viewed in
 light of the standards in the field. If a given tool/library/software is
-mainstream in a field, it is ok to use them, but if a brand new standalone
+mainstream in a field, their use is acceptable, but if a brand new standalone
 implementation is proposed, this must not rejected on this criterion.
+
+The criteria that results of the original paper must be replicated is the least
+strongly enforced during the review process. The aim of replication is the ensure
+that the published record is solid, and it is a real possiblity that the original
+paper is flawed. That a technically correct re-implementation gives different results
+is, in itself, a key information. This leads not to the rejection of retraction of
+either paper, nor should it be, but should instead encourage all researchers using these
+tools to understand from whence the discrepancy came.
 
 [^3]: [https://github.com](https://github.com)
